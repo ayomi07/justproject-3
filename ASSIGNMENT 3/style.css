@@ -1,0 +1,28 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  h1, h2 {
+    text-align: left;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    float: left;
+  }
+  
